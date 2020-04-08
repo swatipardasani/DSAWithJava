@@ -1,3 +1,3 @@
-public class BasicArrayExample.java
+public class BasicArrayExample
 {
 }
