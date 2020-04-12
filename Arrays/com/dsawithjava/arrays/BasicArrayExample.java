@@ -9,10 +9,10 @@ package com.dsawithjava.arrays;
 
 public class BasicArrayExample
 {
-	/* Only Declaration */
+	/* Only Declaration + Instantiation */
 	private static int[] lucky_numbersarray = new int[5];
 	
-	/* Declaration + Instatntiation */
+	/* Declaration + Instantiation + Initialization */
 	private static String[] lucky_folksarray = { "Anjali" , "Rahul" , "Tina", "Sameer"}  ;
 	
 	/* Getters & Setters */
